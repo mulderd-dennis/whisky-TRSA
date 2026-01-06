@@ -21,7 +21,7 @@ export interface EventLog {
   organizer: string;
   ambassador: string;
   inventory: InventoryItem[];
-  status: 'draft' | 'active' | 'completed';
+  status: 'concept' | 'actief' | 'voltooid';
   createdAt: number;
 }
 
