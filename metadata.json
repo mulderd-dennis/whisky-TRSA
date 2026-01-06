@@ -1,0 +1,7 @@
+{
+  "name": "Diageo Whisky Ambassador Inventory Tracker",
+  "description": "A premium inventory management application for Diageo Whisky Ambassadors to track bottle levels and consumption during tasting events with 10cl precision.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
